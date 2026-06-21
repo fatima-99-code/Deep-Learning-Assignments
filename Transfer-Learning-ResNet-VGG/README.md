@@ -24,8 +24,8 @@ Intel Image Classification Dataset.
 * F1 Score
 * Confusion Matrix
 
-## Files
+## File
 
 * Transfer_Learning.ipynb
-* report.pdf
+
 
